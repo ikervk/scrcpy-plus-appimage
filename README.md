@@ -3,38 +3,7 @@
 <img src="https://github.com/Frontesque/scrcpy-plus/blob/main/application/src-tauri/icons/Square150x150Logo.png?raw=true" alt="scrcpy-plus icon" width="200"/>
 
 ## [Downloads](https://scrcpyplus.frontesque.me/downloads.html#stable)
-### THANKS FOR 100K DOWNLOADS
-[Click here to view all downloads](https://scrcpyplus.frontesque.me/downloads.html#stable)
-
-<hr/>
-
-### Features
-
-- 🚩 **Supports Most SCRCPY Flags**
-- 📱 **Device Information** • _Get Model Information About the Active Device_
-- 📶 **Wireless Connectivity** • _Connect to a Device on your WiFi Network_
-- 🗣️ **Multi-Language Support** • _Use SCRCPY+ in your native language_
-
-### Prerequisites
-
-- WINDOWS: None; SCRCPY and ADB come packaged with the app in both the portable and installer versions.
-- LINUX & Mac: Both SCRCPY & ADB need to be installed to your computer per [your distro's instructions](https://github.com/Genymobile/scrcpy#linux).
-
-On macOS, you need to sync the dock path to the system path. You can do this by running the following command in your terminal:
-
-```bash
-launchctl setenv PATH $PATH
-```
-
-### SCRCPY
-
-You can view the project that this is based off of here:
-https://github.com/Genymobile/scrcpy
-
-Thanks a ton Genymobile!
-
-### Screenshots
-
-<img src="https://api.celeste.photos/upload/5kyTNOr" height="400" />
+### PLEASE REFER TO THE ORIGINAL GITHUB PAGE IF YOU WANT TO READ THE DOCUMENTATION (https://github.com/Frontesque/scrcpy-plus)
+r" height="400" />
 <img src="https://api.celeste.photos/upload/NOyGNji" height="400" />
 <img src="https://api.celeste.photos/upload/6qfSUsN" height="400" />
