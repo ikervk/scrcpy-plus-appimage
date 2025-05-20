@@ -4,6 +4,6 @@
 
 ## [Downloads](https://scrcpyplus.frontesque.me/downloads.html#stable)
 ### PLEASE REFER TO THE ORIGINAL GITHUB PAGE IF YOU WANT TO READ THE DOCUMENTATION (https://github.com/Frontesque/scrcpy-plus)
-r" height="400" />
+
 <img src="https://api.celeste.photos/upload/NOyGNji" height="400" />
 <img src="https://api.celeste.photos/upload/6qfSUsN" height="400" />
