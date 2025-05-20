@@ -4,6 +4,7 @@
 
 ### [RELEASES](https://github.com/ikervk/scrcpy-plus-appimage/releases)
 
-### [THIS IS A FORK WITH THE ONLY PURPOSE OF PROVIDING AN APPIMAGE FOR SCRCPY-PLUS. PLEASE REFER TO THE ORIGINAL GITHUB PAGE IF YOU WANT TO READ THE ORIGINAL DOCUMENTATION](https://github.com/Frontesque/scrcpy-plus)
+This is a fork maintained solely to provide an AppImage build of scrcpy-plus.
+For the original documentation, please refer to [the official scrcpy-plus GitHub repository](https://github.com/Frontesque/scrcpy-plus)
 
 [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) was tested and it works perfectly fine with this appimage.
